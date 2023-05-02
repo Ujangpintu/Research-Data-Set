@@ -1,0 +1,815 @@
+Case_ID,Activity,Time_stamp,Resource
+1,Course Scheduling,6/12/2021 2:49,Felia
+1,Enrollment Assistance,6/12/2021 3:02,Zhafran
+1,Lecturer Approval,6/12/2021 3:31,Felia
+1,Making Course Selection Sheet,6/12/2021 3:46,Ridwan
+1,Taking  Course Selection Sheet,6/12/2021 4:03,Ridwan
+1,Classes,6/12/2021 4:03,Rayisa
+1,Attendance,6/12/2021 8:09,Zhafran
+1,Grading Process,6/12/2021 8:09,Rayisa
+2,Course Scheduling,6/12/2021 2:22,Felia
+2,Enrollment Assistance,6/12/2021 2:32,Diky
+2,Lecturer Approval,6/12/2021 2:33,Felia
+2,Making Course Selection Sheet,6/12/2021 2:36,Diky
+2,Taking  Course Selection Sheet,6/12/2021 2:42,Zhafran
+2,Classes,6/12/2021 2:42,Zhafran
+2,Attendance,6/12/2021 2:42,Zhafran
+2,Grading Process,6/12/2021 2:43,Ridwan
+3,Course Scheduling,6/12/2021 2:54,Felia
+3,Enrollment Assistance,6/12/2021 2:55,Rayisa
+3,Lecturer Approval,6/12/2021 3:25,Felia
+3,Making Course Selection Sheet,6/12/2021 8:14,Zhafran
+4,Course Scheduling,6/12/2021 2:39,Felia
+4,Enrollment Assistance,6/12/2021 2:55,Rayisa
+4,Lecturer Approval,6/12/2021 3:37,Felia
+4,Making Course Selection Sheet,6/12/2021 4:04,Rayisa
+4,Taking  Course Selection Sheet,6/12/2021 4:05,Ridwan
+4,Classes,6/12/2021 4:07,Ridwan
+4,Attendance,6/12/2021 6:09,Felia
+4,Grading Process,6/12/2021 8:10,Ridwan
+5,Course Scheduling,6/12/2021 2:53,Felia
+5,Enrollment Assistance,6/12/2021 2:55,Rayisa
+5,Lecturer Approval,6/12/2021 3:26,Felia
+5,Making Course Selection Sheet,6/12/2021 4:02,Rayisa
+5,Taking  Course Selection Sheet,6/12/2021 4:15,Diky
+5,Classes,6/12/2021 4:15,Diky
+5,Attendance,6/12/2021 6:09,Felia
+5,Grading Process,6/12/2021 6:09,Diky
+6,Course Scheduling,6/12/2021 2:43,Felia
+6,Enrollment Assistance,6/12/2021 2:55,Rayisa
+6,Lecturer Approval,6/12/2021 3:34,Felia
+6,Making Course Selection Sheet,6/12/2021 8:14,Zhafran
+6,Taking  Course Selection Sheet,6/12/2021 8:14,Zhafran
+7,Course Scheduling,6/12/2021 2:24,Felia
+7,Enrollment Assistance,6/12/2021 2:26,Zhafran
+7,Lecturer Approval,6/12/2021 2:29,Felia
+7,Making Course Selection Sheet,6/12/2021 2:54,Rayisa
+7,Taking  Course Selection Sheet,6/12/2021 2:54,Rayisa
+7,Classes,6/12/2021 2:54,Rayisa
+7,Attendance,6/12/2021 3:40,Felia
+7,Grading Process,6/12/2021 4:04,Rayisa
+8,Course Scheduling,5/27/2021 8:10,Felia
+8,Enrollment Assistance,5/27/2021 8:13,Zhafran
+8,Lecturer Approval,5/27/2021 8:14,Felia
+8,Making Course Selection Sheet,5/27/2021 8:14,Rayisa
+8,Taking  Course Selection Sheet,5/27/2021 8:14,Rayisa
+8,Classes,5/27/2021 8:14,Rayisa
+8,Attendance,5/27/2021 8:15,Felia
+8,Grading Process,5/27/2021 8:17,Diky
+9,Course Scheduling,6/12/2021 2:52,Felia
+9,Enrollment Assistance,6/12/2021 2:56,Diky
+9,Lecturer Approval,6/12/2021 3:29,Felia
+9,Making Course Selection Sheet,6/12/2021 3:30,Diky
+9,Taking  Course Selection Sheet,6/12/2021 4:03,Rayisa
+9,Classes,6/12/2021 4:15,Diky
+9,Attendance,6/12/2021 4:32,Ridwan
+9,Grading Process,6/12/2021 4:32,Ridwan
+10,Course Scheduling,6/12/2021 2:51,Felia
+10,Enrollment Assistance,6/12/2021 2:56,Diky
+10,Lecturer Approval,6/12/2021 3:31,Felia
+10,Making Course Selection Sheet,6/12/2021 3:41,Diky
+10,Taking  Course Selection Sheet,6/12/2021 4:03,Rayisa
+10,Classes,6/12/2021 4:03,Ridwan
+10,Attendance,6/12/2021 6:09,Felia
+10,Grading Process,6/12/2021 8:01,Zhafran
+11,Course Scheduling,6/12/2021 2:52,Felia
+11,Enrollment Assistance,6/12/2021 2:55,Rayisa
+11,Lecturer Approval,6/12/2021 3:30,Felia
+11,Making Course Selection Sheet,6/12/2021 4:03,Rayisa
+11,Taking  Course Selection Sheet,6/12/2021 4:14,Diky
+11,Classes,6/12/2021 4:19,Rayisa
+11,Attendance,6/12/2021 8:03,Zhafran
+11,Grading Process,6/12/2021 8:05,Diky
+12,Course Scheduling,6/12/2021 2:45,Felia
+12,Enrollment Assistance,6/12/2021 2:46,Ridwan
+12,Lecturer Approval,6/12/2021 2:47,Felia
+12,Making Course Selection Sheet,6/12/2021 8:05,Zhafran
+12,Taking  Course Selection Sheet,6/12/2021 8:14,Diky
+13,Course Scheduling,5/27/2021 8:14,Felia
+13,Enrollment Assistance,5/27/2021 8:14,Ridwan
+13,Lecturer Approval,5/27/2021 8:15,Felia
+13,Making Course Selection Sheet,5/27/2021 8:15,Diky
+13,Taking  Course Selection Sheet,5/27/2021 8:17,Zhafran
+13,Classes,5/27/2021 8:18,Diky
+13,Attendance,5/27/2021 8:19,Rayisa
+13,Grading Process,5/27/2021 8:19,Rayisa
+14,Course Scheduling,6/12/2021 2:53,Felia
+14,Enrollment Assistance,6/12/2021 2:53,Ridwan
+14,Lecturer Approval,6/12/2021 3:27,Felia
+14,Making Course Selection Sheet,6/12/2021 8:01,Zhafran
+14,Taking  Course Selection Sheet,6/12/2021 8:09,Rayisa
+15,Course Scheduling,6/12/2021 2:41,Felia
+15,Enrollment Assistance,6/12/2021 2:57,Diky
+15,Lecturer Approval,6/12/2021 3:36,Felia
+15,Making Course Selection Sheet,6/12/2021 3:39,Diky
+15,Taking  Course Selection Sheet,6/12/2021 8:05,Zhafran
+15,Classes,6/12/2021 8:10,Ridwan
+16,Course Scheduling,6/12/2021 3:04,Felia
+16,Enrollment Assistance,6/12/2021 8:04,Zhafran
+16,Lecturer Approval,6/12/2021 8:15,Felia
+17,Course Scheduling,6/12/2021 2:43,Felia
+17,Enrollment Assistance,6/12/2021 2:43,Ridwan
+17,Lecturer Approval,6/12/2021 2:43,Felia
+17,Making Course Selection Sheet,6/12/2021 2:58,Diky
+17,Taking  Course Selection Sheet,6/12/2021 2:58,Diky
+17,Classes,6/12/2021 2:59,Ridwan
+17,Attendance,6/12/2021 3:00,Ridwan
+17,Grading Process,6/12/2021 3:08,Zhafran
+18,Course Scheduling,6/12/2021 2:53,Felia
+18,Enrollment Assistance,6/12/2021 2:55,Rayisa
+18,Lecturer Approval,6/12/2021 3:27,Felia
+18,Making Course Selection Sheet,6/12/2021 4:02,Rayisa
+18,Taking  Course Selection Sheet,6/12/2021 4:03,Ridwan
+18,Classes,6/12/2021 4:03,Ridwan
+18,Attendance,6/12/2021 4:04,Ridwan
+18,Grading Process,6/12/2021 4:04,Rayisa
+19,Course Scheduling,6/12/2021 2:23,Felia
+19,Enrollment Assistance,6/12/2021 2:23,Zhafran
+19,Lecturer Approval,6/12/2021 2:30,Felia
+19,Making Course Selection Sheet,6/12/2021 2:31,Diky
+19,Taking  Course Selection Sheet,6/12/2021 2:54,Rayisa
+19,Classes,6/12/2021 2:54,Ridwan
+19,Attendance,6/12/2021 2:55,Ridwan
+19,Grading Process,6/12/2021 3:00,Zhafran
+20,Course Scheduling,6/12/2021 2:46,Felia
+20,Enrollment Assistance,6/12/2021 3:00,Zhafran
+20,Lecturer Approval,6/12/2021 3:21,Felia
+20,Enrollment Finalization,6/12/2021 3:25,Diky
+20,Lecturer Approval,6/12/2021 3:32,Felia
+20,Enrollment Finalization,6/12/2021 3:40,Diky
+20,Lecturer Approval,6/12/2021 3:41,Felia
+20,Enrollment Finalization,6/12/2021 3:43,Diky
+20,Lecturer Approval,6/12/2021 3:43,Felia
+20,Enrollment Finalization,6/12/2021 4:03,Rayisa
+20,Lecturer Approval,6/12/2021 6:08,Felia
+20,Making Course Selection Sheet,6/12/2021 8:04,Zhafran
+20,Taking  Course Selection Sheet,6/12/2021 8:07,Rayisa
+21,Course Scheduling,6/12/2021 2:40,Felia
+21,Enrollment Assistance,6/12/2021 2:40,Ridwan
+21,Lecturer Approval,6/12/2021 2:41,Felia
+21,Making Course Selection Sheet,6/12/2021 2:41,Ridwan
+21,Taking  Course Selection Sheet,6/12/2021 2:57,Diky
+21,Classes,6/12/2021 2:57,Diky
+21,Attendance,6/12/2021 3:00,Zhafran
+21,Grading Process,6/12/2021 3:06,Diky
+22,Course Scheduling,6/12/2021 2:25,Felia
+22,Enrollment Assistance,6/12/2021 2:31,Diky
+22,Lecturer Approval,6/12/2021 2:34,Felia
+22,Making Course Selection Sheet,6/12/2021 2:34,Zhafran
+22,Taking  Course Selection Sheet,6/12/2021 2:36,Diky
+22,Classes,6/12/2021 2:51,Rayisa
+22,Attendance,6/12/2021 3:38,Felia
+22,Grading Process,6/12/2021 4:07,Ridwan
+23,Course Scheduling,5/27/2021 8:19,Felia
+23,Enrollment Assistance,5/27/2021 8:19,Rayisa
+23,Lecturer Approval,5/27/2021 8:20,Felia
+23,Enrollment Finalization,5/27/2021 8:20,Diky
+23,Lecturer Approval,5/27/2021 8:20,Felia
+24,Course Scheduling,6/12/2021 2:24,Felia
+24,Enrollment Assistance,6/12/2021 2:52,Rayisa
+24,Lecturer Approval,6/12/2021 3:40,Felia
+24,Making Course Selection Sheet,6/12/2021 4:04,Rayisa
+24,Taking  Course Selection Sheet,6/12/2021 4:04,Rayisa
+24,Classes,6/12/2021 4:15,Diky
+24,Attendance,6/12/2021 4:19,Rayisa
+24,Grading Process,6/12/2021 4:21,Diky
+25,Course Scheduling,6/12/2021 2:23,Felia
+25,Enrollment Assistance,6/12/2021 2:31,Diky
+25,Lecturer Approval,6/12/2021 2:34,Felia
+25,Making Course Selection Sheet,6/12/2021 2:52,Rayisa
+25,Taking  Course Selection Sheet,6/12/2021 2:52,Ridwan
+25,Classes,6/12/2021 3:00,Zhafran
+25,Attendance,6/12/2021 3:00,Zhafran
+25,Grading Process,6/12/2021 3:01,Rayisa
+26,Course Scheduling,6/12/2021 2:41,Felia
+26,Enrollment Assistance,6/12/2021 2:42,Zhafran
+26,Lecturer Approval,6/12/2021 2:44,Felia
+26,Making Course Selection Sheet,6/12/2021 2:52,Rayisa
+26,Taking  Course Selection Sheet,6/12/2021 2:52,Rayisa
+26,Classes,6/12/2021 2:55,Rayisa
+26,Attendance,6/12/2021 2:55,Rayisa
+26,Grading Process,6/12/2021 2:55,Rayisa
+27,Course Scheduling,6/12/2021 2:26,Felia
+27,Enrollment Assistance,6/12/2021 3:08,Rayisa
+27,Lecturer Approval,6/12/2021 3:37,Felia
+27,Making Course Selection Sheet,6/12/2021 3:39,Diky
+27,Taking  Course Selection Sheet,6/12/2021 4:04,Rayisa
+27,Classes,6/12/2021 8:08,Zhafran
+27,Attendance,6/12/2021 8:10,Ridwan
+28,Course Scheduling,6/12/2021 2:52,Felia
+28,Enrollment Assistance,6/12/2021 2:56,Diky
+28,Lecturer Approval,6/12/2021 3:28,Felia
+28,Making Course Selection Sheet,6/12/2021 3:30,Diky
+28,Taking  Course Selection Sheet,6/12/2021 8:08,Zhafran
+28,Classes,6/12/2021 8:09,Rayisa
+28,Attendance,6/12/2021 8:11,Felia
+29,Course Scheduling,6/12/2021 2:37,Felia
+29,Enrollment Assistance,6/12/2021 2:38,Diky
+29,Lecturer Approval,6/12/2021 2:38,Felia
+29,Making Course Selection Sheet,6/12/2021 2:42,Zhafran
+29,Taking  Course Selection Sheet,6/12/2021 2:42,Ridwan
+29,Classes,6/12/2021 2:57,Diky
+29,Attendance,6/12/2021 2:58,Rayisa
+29,Grading Process,6/12/2021 3:06,Diky
+30,Course Scheduling,6/12/2021 2:24,Felia
+30,Enrollment Assistance,6/12/2021 2:26,Zhafran
+30,Lecturer Approval,6/12/2021 2:27,Felia
+30,Making Course Selection Sheet,6/12/2021 2:28,Ridwan
+30,Taking  Course Selection Sheet,6/12/2021 2:31,Diky
+30,Classes,6/12/2021 2:31,Zhafran
+30,Attendance,6/12/2021 2:34,Felia
+30,Grading Process,6/12/2021 2:54,Rayisa
+31,Course Scheduling,6/12/2021 2:53,Felia
+31,Enrollment Assistance,6/12/2021 3:01,Zhafran
+31,Lecturer Approval,6/12/2021 3:26,Felia
+31,Making Course Selection Sheet,6/12/2021 3:28,Ridwan
+31,Taking  Course Selection Sheet,6/12/2021 8:07,Zhafran
+31,Classes,6/12/2021 8:08,Rayisa
+31,Attendance,6/12/2021 8:11,Felia
+31,Grading Process,6/12/2021 8:12,Diky
+32,Course Scheduling,6/12/2021 2:55,Felia
+32,Enrollment Assistance,6/12/2021 2:56,Diky
+32,Lecturer Approval,6/12/2021 3:22,Felia
+32,Making Course Selection Sheet,6/12/2021 3:24,Ridwan
+32,Taking  Course Selection Sheet,6/12/2021 4:20,Rayisa
+32,Classes,6/12/2021 4:33,Ridwan
+32,Attendance,6/12/2021 6:09,Felia
+32,Grading Process,6/12/2021 6:30,Rayisa
+33,Course Scheduling,6/12/2021 2:23,Felia
+33,Enrollment Assistance,6/12/2021 2:24,Ridwan
+33,Lecturer Approval,6/12/2021 2:27,Felia
+33,Making Course Selection Sheet,6/12/2021 2:52,Rayisa
+33,Taking  Course Selection Sheet,6/12/2021 2:56,Diky
+33,Classes,6/12/2021 3:02,Zhafran
+33,Attendance,6/12/2021 3:41,Felia
+33,Grading Process,6/12/2021 8:08,Zhafran
+34,Course Scheduling,6/12/2021 2:25,Felia
+34,Enrollment Assistance,6/12/2021 2:31,Diky
+34,Lecturer Approval,6/12/2021 2:34,Felia
+34,Making Course Selection Sheet,6/12/2021 2:36,Diky
+34,Taking  Course Selection Sheet,6/12/2021 2:54,Rayisa
+34,Classes,6/12/2021 3:02,Zhafran
+34,Attendance,6/12/2021 3:02,Ridwan
+34,Grading Process,6/12/2021 3:05,Diky
+35,Course Scheduling,6/12/2021 3:05,Felia
+35,Enrollment Assistance,6/12/2021 3:05,Ridwan
+35,Lecturer Approval,6/12/2021 3:43,Felia
+35,Making Course Selection Sheet,6/12/2021 7:54,Rayisa
+35,Taking  Course Selection Sheet,6/12/2021 8:05,Ridwan
+35,Classes,6/12/2021 8:08,Zhafran
+35,Attendance,6/12/2021 8:08,Zhafran
+35,Grading Process,6/12/2021 8:09,Zhafran
+36,Course Scheduling,6/12/2021 2:25,Felia
+36,Enrollment Assistance,6/12/2021 2:26,Ridwan
+36,Lecturer Approval,6/12/2021 2:28,Felia
+36,Making Course Selection Sheet,6/12/2021 2:30,Zhafran
+36,Taking  Course Selection Sheet,6/12/2021 2:31,Diky
+36,Classes,6/12/2021 2:31,Diky
+36,Attendance,6/12/2021 2:32,Ridwan
+36,Grading Process,6/12/2021 2:32,Ridwan
+37,Course Scheduling,5/27/2021 8:16,Felia
+37,Enrollment Assistance,5/27/2021 8:18,Zhafran
+37,Lecturer Approval,5/27/2021 8:20,Felia
+37,Making Course Selection Sheet,5/27/2021 8:23,Rayisa
+37,Taking  Course Selection Sheet,5/27/2021 8:36,Zhafran
+37,Classes,5/27/2021 8:36,Zhafran
+37,Attendance,5/27/2021 8:36,Rayisa
+38,Course Scheduling,6/12/2021 2:49,Felia
+38,Enrollment Assistance,6/12/2021 3:08,Zhafran
+38,Lecturer Approval,6/12/2021 3:32,Felia
+38,Enrollment Finalization,6/12/2021 8:07,Zhafran
+38,Lecturer Approval,6/12/2021 8:12,Felia
+39,Course Scheduling,6/12/2021 2:53,Felia
+39,Enrollment Assistance,6/12/2021 2:56,Diky
+39,Lecturer Approval,6/12/2021 3:26,Felia
+39,Making Course Selection Sheet,6/12/2021 3:30,Diky
+39,Taking  Course Selection Sheet,6/12/2021 4:02,Ridwan
+39,Classes,6/12/2021 8:07,Zhafran
+39,Attendance,6/12/2021 8:10,Ridwan
+40,Course Scheduling,6/12/2021 2:26,Felia
+40,Enrollment Assistance,6/12/2021 2:28,Zhafran
+40,Lecturer Approval,6/12/2021 2:28,Felia
+40,Enrollment Finalization,6/12/2021 2:30,Zhafran
+40,Lecturer Approval,6/12/2021 2:34,Felia
+40,Making Course Selection Sheet,6/12/2021 2:35,Ridwan
+40,Taking  Course Selection Sheet,6/12/2021 2:35,Ridwan
+40,Classes,6/12/2021 2:36,Ridwan
+40,Attendance,6/12/2021 2:36,Ridwan
+40,Grading Process,6/12/2021 2:36,Diky
+41,Course Scheduling,5/27/2021 8:02,Felia
+41,Enrollment Assistance,5/27/2021 8:04,Ridwan
+41,Lecturer Approval,5/27/2021 8:07,Felia
+41,Enrollment Finalization,5/27/2021 8:09,Zhafran
+41,Lecturer Approval,5/27/2021 8:10,Felia
+41,Making Course Selection Sheet,5/27/2021 8:11,Ridwan
+41,Taking  Course Selection Sheet,5/27/2021 8:11,Rayisa
+41,Classes,5/27/2021 8:11,Ridwan
+41,Attendance,5/27/2021 8:13,Felia
+41,Grading Process,5/27/2021 8:16,Ridwan
+42,Course Scheduling,6/12/2021 2:42,Felia
+42,Enrollment Assistance,6/12/2021 2:57,Diky
+42,Lecturer Approval,6/12/2021 3:35,Felia
+42,Making Course Selection Sheet,6/12/2021 4:03,Rayisa
+42,Taking  Course Selection Sheet,6/12/2021 8:07,Zhafran
+42,Classes,6/12/2021 8:07,Zhafran
+42,Attendance,6/12/2021 8:09,Rayisa
+42,Grading Process,6/12/2021 8:12,Diky
+43,Course Scheduling,6/12/2021 2:54,Felia
+43,Enrollment Assistance,6/12/2021 2:55,Ridwan
+43,Lecturer Approval,6/12/2021 3:25,Felia
+43,Enrollment Finalization,6/12/2021 3:28,Ridwan
+43,Lecturer Approval,6/12/2021 3:29,Felia
+43,Enrollment Finalization,6/12/2021 4:02,Rayisa
+43,Lecturer Approval,6/12/2021 6:08,Felia
+43,Making Course Selection Sheet,6/12/2021 8:06,Ridwan
+43,Taking  Course Selection Sheet,6/12/2021 8:06,Ridwan
+44,Course Scheduling,5/27/2021 1:55,Administrator
+44,Enrollment Assistance,5/27/2021 1:56,Administrator
+44,Lecturer Approval,5/27/2021 1:56,Administrator
+44,Making Course Selection Sheet,5/27/2021 1:56,Administrator
+44,Taking  Course Selection Sheet,5/27/2021 1:56,Administrator
+44,Classes,5/27/2021 1:56,Administrator
+44,Attendance,5/27/2021 1:56,Administrator
+44,Grading Process,5/27/2021 1:56,Administrator
+45,Course Scheduling,6/12/2021 2:25,Felia
+45,Enrollment Assistance,6/12/2021 2:25,Ridwan
+45,Lecturer Approval,6/12/2021 2:28,Felia
+45,Enrollment Finalization,6/12/2021 2:54,Rayisa
+45,Lecturer Approval,6/12/2021 3:39,Felia
+45,Enrollment Finalization,6/12/2021 4:04,Rayisa
+45,Lecturer Approval,6/12/2021 7:45,Felia
+45,Making Course Selection Sheet,6/12/2021 8:09,Rayisa
+45,Taking  Course Selection Sheet,6/12/2021 8:09,Rayisa
+45,Classes,6/12/2021 8:09,Zhafran
+45,Attendance,6/12/2021 8:10,Ridwan
+45,Grading Process,6/12/2021 8:11,Diky
+46,Course Scheduling,6/12/2021 2:52,Felia
+46,Enrollment Assistance,6/12/2021 3:00,Zhafran
+46,Lecturer Approval,6/12/2021 3:29,Felia
+46,Making Course Selection Sheet,6/12/2021 3:45,Ridwan
+46,Taking  Course Selection Sheet,6/12/2021 3:47,Diky
+46,Classes,6/12/2021 8:08,Zhafran
+46,Attendance,6/12/2021 8:08,Zhafran
+46,Grading Process,6/12/2021 8:10,Ridwan
+47,Course Scheduling,6/12/2021 2:52,Felia
+47,Enrollment Assistance,6/12/2021 2:55,Rayisa
+47,Lecturer Approval,6/12/2021 3:29,Felia
+47,Making Course Selection Sheet,6/12/2021 4:02,Rayisa
+47,Taking  Course Selection Sheet,6/12/2021 4:02,Rayisa
+47,Classes,6/12/2021 4:02,Rayisa
+47,Attendance,6/12/2021 4:02,Rayisa
+47,Grading Process,6/12/2021 4:03,Rayisa
+48,Course Scheduling,6/12/2021 2:39,Felia
+48,Enrollment Assistance,6/12/2021 2:39,Ridwan
+48,Lecturer Approval,6/12/2021 2:40,Felia
+48,Making Course Selection Sheet,6/12/2021 2:57,Diky
+48,Taking  Course Selection Sheet,6/12/2021 3:00,Zhafran
+48,Classes,6/12/2021 3:00,Rayisa
+48,Attendance,6/12/2021 3:00,Rayisa
+48,Grading Process,6/12/2021 3:01,Ridwan
+49,Course Scheduling,5/27/2021 8:11,Felia
+49,Enrollment Assistance,5/27/2021 8:11,Diky
+49,Lecturer Approval,5/27/2021 8:11,Felia
+49,Making Course Selection Sheet,5/27/2021 8:14,Zhafran
+49,Taking  Course Selection Sheet,5/27/2021 8:14,Ridwan
+49,Classes,5/27/2021 8:15,Ridwan
+49,Attendance,5/27/2021 8:15,Ridwan
+49,Grading Process,5/27/2021 8:35,Zhafran
+50,Course Scheduling,6/12/2021 2:55,Felia
+50,Enrollment Assistance,6/12/2021 2:55,Ridwan
+50,Lecturer Approval,6/12/2021 3:44,Felia
+50,Making Course Selection Sheet,6/12/2021 3:47,Diky
+50,Taking  Course Selection Sheet,6/12/2021 4:02,Ridwan
+50,Classes,6/12/2021 4:14,Diky
+50,Attendance,6/12/2021 7:54,Rayisa
+50,Grading Process,6/12/2021 8:06,Zhafran
+51,Course Scheduling,6/12/2021 2:54,Felia
+51,Enrollment Assistance,6/12/2021 3:02,Zhafran
+51,Lecturer Approval,6/12/2021 3:25,Felia
+51,Making Course Selection Sheet,6/12/2021 4:02,Rayisa
+51,Taking  Course Selection Sheet,6/12/2021 8:05,Zhafran
+51,Classes,6/12/2021 8:05,Zhafran
+51,Attendance,6/12/2021 8:06,Ridwan
+51,Grading Process,6/12/2021 8:06,Zhafran
+52,Course Scheduling,5/27/2021 8:16,Felia
+52,Enrollment Assistance,5/27/2021 8:16,Rayisa
+52,Lecturer Approval,5/27/2021 8:17,Felia
+52,Enrollment Finalization,6/12/2021 2:26,Zhafran
+52,Lecturer Approval,6/12/2021 2:28,Felia
+52,Making Course Selection Sheet,6/12/2021 2:53,Rayisa
+52,Taking  Course Selection Sheet,6/12/2021 2:56,Diky
+52,Classes,6/12/2021 2:58,Rayisa
+52,Attendance,6/12/2021 3:42,Felia
+52,Grading Process,6/12/2021 3:45,Ridwan
+53,Course Scheduling,6/12/2021 3:04,Felia
+53,Enrollment Assistance,6/12/2021 3:05,Rayisa
+53,Lecturer Approval,6/12/2021 3:43,Felia
+53,Making Course Selection Sheet,6/12/2021 8:05,Zhafran
+53,Taking  Course Selection Sheet,6/12/2021 8:05,Zhafran
+54,Course Scheduling,6/12/2021 2:42,Felia
+54,Enrollment Assistance,6/12/2021 2:42,Ridwan
+54,Lecturer Approval,6/12/2021 2:44,Felia
+54,Making Course Selection Sheet,6/12/2021 2:44,Ridwan
+54,Taking  Course Selection Sheet,6/12/2021 2:52,Rayisa
+54,Classes,6/12/2021 2:52,Ridwan
+54,Attendance,6/12/2021 2:53,Ridwan
+54,Grading Process,6/12/2021 3:00,Zhafran
+55,Course Scheduling,6/12/2021 2:26,Felia
+55,Enrollment Assistance,6/12/2021 2:52,Rayisa
+55,Lecturer Approval,6/12/2021 3:38,Felia
+55,Enrollment Finalization,6/12/2021 3:38,Diky
+55,Lecturer Approval,6/12/2021 3:39,Felia
+55,Enrollment Finalization,6/12/2021 3:45,Ridwan
+55,Lecturer Approval,6/12/2021 3:45,Felia
+55,Enrollment Finalization,6/12/2021 8:06,Zhafran
+55,Lecturer Approval,6/12/2021 8:13,Felia
+56,Course Scheduling,6/12/2021 2:39,Felia
+56,Enrollment Assistance,6/12/2021 2:42,Zhafran
+56,Lecturer Approval,6/12/2021 2:43,Felia
+56,Enrollment Finalization,6/12/2021 2:51,Rayisa
+56,Lecturer Approval,6/12/2021 3:37,Felia
+56,Enrollment Finalization,6/12/2021 8:06,Zhafran
+56,Lecturer Approval,6/12/2021 8:14,Felia
+57,Course Scheduling,5/27/2021 8:08,Felia
+57,Enrollment Assistance,5/27/2021 8:10,Ridwan
+57,Lecturer Approval,5/27/2021 8:11,Felia
+57,Making Course Selection Sheet,5/27/2021 8:12,Rayisa
+57,Taking  Course Selection Sheet,5/27/2021 8:13,Zhafran
+57,Classes,5/27/2021 8:14,Diky
+57,Attendance,5/27/2021 8:35,Zhafran
+57,Grading Process,5/27/2021 8:36,Rayisa
+58,Course Scheduling,5/27/2021 8:07,Felia
+58,Enrollment Assistance,5/27/2021 8:07,Diky
+58,Lecturer Approval,5/27/2021 8:08,Felia
+58,Making Course Selection Sheet,5/27/2021 8:09,Zhafran
+58,Taking  Course Selection Sheet,5/27/2021 8:09,Diky
+58,Classes,5/27/2021 8:11,Zhafran
+58,Attendance,5/27/2021 8:12,Zhafran
+58,Grading Process,5/27/2021 8:12,Zhafran
+59,Course Scheduling,5/27/2021 8:01,Felia
+59,Enrollment Assistance,5/27/2021 8:04,Zhafran
+59,Lecturer Approval,5/27/2021 8:09,Felia
+59,Making Course Selection Sheet,5/27/2021 8:09,Diky
+59,Taking  Course Selection Sheet,5/27/2021 8:11,Ridwan
+59,Classes,5/27/2021 8:12,Rayisa
+59,Attendance,5/27/2021 8:14,Rayisa
+59,Grading Process,5/27/2021 8:15,Rayisa
+60,Course Scheduling,6/12/2021 2:53,Felia
+60,Enrollment Assistance,6/12/2021 2:56,Diky
+60,Lecturer Approval,6/12/2021 3:27,Felia
+60,Making Course Selection Sheet,6/12/2021 3:30,Diky
+60,Taking  Course Selection Sheet,6/12/2021 3:30,Diky
+60,Classes,6/12/2021 8:01,Zhafran
+61,Course Scheduling,6/12/2021 2:22,Felia
+61,Enrollment Assistance,6/12/2021 2:24,Ridwan
+61,Lecturer Approval,6/12/2021 2:29,Felia
+61,Making Course Selection Sheet,6/12/2021 2:31,Diky
+61,Taking  Course Selection Sheet,6/12/2021 2:32,Zhafran
+61,Classes,6/12/2021 2:53,Rayisa
+61,Attendance,6/12/2021 3:02,Zhafran
+61,Grading Process,6/12/2021 3:02,Zhafran
+62,Course Scheduling,6/12/2021 2:26,Felia
+62,Enrollment Assistance,6/12/2021 2:32,Diky
+62,Lecturer Approval,6/12/2021 2:33,Felia
+62,Making Course Selection Sheet,6/12/2021 2:33,Ridwan
+62,Taking  Course Selection Sheet,6/12/2021 2:33,Ridwan
+62,Classes,6/12/2021 2:34,Zhafran
+62,Attendance,6/12/2021 2:35,Felia
+62,Grading Process,6/12/2021 2:42,Zhafran
+63,Course Scheduling,6/12/2021 2:45,Felia
+63,Enrollment Assistance,6/12/2021 2:52,Rayisa
+63,Lecturer Approval,6/12/2021 3:33,Felia
+63,Making Course Selection Sheet,6/12/2021 3:40,Diky
+63,Taking  Course Selection Sheet,6/12/2021 3:45,Ridwan
+63,Classes,6/12/2021 3:45,Ridwan
+63,Attendance,6/12/2021 8:01,Zhafran
+63,Grading Process,6/12/2021 8:04,Diky
+64,Course Scheduling,6/12/2021 2:52,Felia
+64,Enrollment Assistance,6/12/2021 2:53,Ridwan
+64,Lecturer Approval,6/12/2021 3:28,Felia
+64,Making Course Selection Sheet,6/12/2021 8:01,Zhafran
+64,Taking  Course Selection Sheet,6/12/2021 8:01,Zhafran
+64,Classes,6/12/2021 8:01,Zhafran
+64,Attendance,6/12/2021 8:01,Zhafran
+64,Grading Process,6/12/2021 8:05,Ridwan
+65,Course Scheduling,5/27/2021 8:06,Felia
+65,Enrollment Assistance,5/27/2021 8:09,Zhafran
+65,Lecturer Approval,5/27/2021 8:09,Felia
+65,Enrollment Finalization,5/27/2021 8:10,Diky
+65,Lecturer Approval,5/27/2021 8:12,Felia
+65,Making Course Selection Sheet,5/27/2021 8:13,Diky
+65,Taking  Course Selection Sheet,5/27/2021 8:13,Diky
+65,Classes,5/27/2021 8:13,Zhafran
+65,Attendance,5/27/2021 8:15,Ridwan
+65,Grading Process,5/27/2021 8:15,Ridwan
+66,Course Scheduling,6/12/2021 2:20,Felia
+66,Enrollment Assistance,6/12/2021 2:21,Ridwan
+66,Lecturer Approval,6/12/2021 2:29,Felia
+66,Making Course Selection Sheet,6/12/2021 2:30,Ridwan
+66,Taking  Course Selection Sheet,6/12/2021 2:30,Zhafran
+66,Classes,6/12/2021 2:30,Ridwan
+66,Attendance,6/12/2021 2:31,Zhafran
+66,Grading Process,6/12/2021 2:32,Diky
+67,Course Scheduling,6/12/2021 2:27,Felia
+67,Enrollment Assistance,6/12/2021 2:52,Rayisa
+67,Lecturer Approval,6/12/2021 3:37,Felia
+67,Making Course Selection Sheet,6/12/2021 8:01,Zhafran
+67,Taking  Course Selection Sheet,6/12/2021 8:04,Diky
+67,Classes,6/12/2021 8:06,Ridwan
+67,Attendance,6/12/2021 8:09,Rayisa
+67,Grading Process,6/12/2021 8:10,Ridwan
+68,Course Scheduling,6/12/2021 2:27,Felia
+68,Enrollment Assistance,6/12/2021 2:28,Zhafran
+68,Lecturer Approval,6/12/2021 2:30,Felia
+68,Enrollment Finalization,6/12/2021 2:30,Ridwan
+68,Lecturer Approval,6/12/2021 2:33,Felia
+68,Making Course Selection Sheet,6/12/2021 2:53,Rayisa
+68,Taking  Course Selection Sheet,6/12/2021 3:02,Zhafran
+68,Classes,6/12/2021 3:02,Zhafran
+68,Attendance,6/12/2021 3:03,Rayisa
+68,Grading Process,6/12/2021 3:03,Ridwan
+69,Course Scheduling,6/12/2021 2:41,Felia
+69,Enrollment Assistance,6/12/2021 2:41,Ridwan
+69,Lecturer Approval,6/12/2021 2:43,Felia
+69,Making Course Selection Sheet,6/12/2021 2:52,Rayisa
+69,Taking  Course Selection Sheet,6/12/2021 3:08,Zhafran
+69,Classes,6/12/2021 3:10,Diky
+69,Attendance,6/12/2021 3:36,Felia
+69,Grading Process,6/12/2021 3:39,Diky
+70,Course Scheduling,5/27/2021 8:06,Felia
+70,Enrollment Assistance,5/27/2021 8:07,Rayisa
+70,Lecturer Approval,5/27/2021 8:13,Felia
+70,Making Course Selection Sheet,5/27/2021 8:15,Ridwan
+70,Taking  Course Selection Sheet,5/27/2021 8:17,Diky
+70,Classes,5/27/2021 8:19,Zhafran
+70,Attendance,5/27/2021 8:20,Zhafran
+70,Grading Process,5/27/2021 8:35,Zhafran
+71,Course Scheduling,6/12/2021 2:42,Felia
+71,Enrollment Assistance,6/12/2021 2:55,Rayisa
+71,Lecturer Approval,6/12/2021 3:35,Felia
+71,Making Course Selection Sheet,6/12/2021 3:46,Ridwan
+71,Taking  Course Selection Sheet,6/12/2021 4:03,Rayisa
+71,Classes,6/12/2021 4:09,Ridwan
+71,Attendance,6/12/2021 4:09,Ridwan
+71,Grading Process,6/12/2021 8:01,Zhafran
+72,Course Scheduling,6/12/2021 2:20,Felia
+72,Enrollment Assistance,6/12/2021 2:52,Rayisa
+72,Lecturer Approval,6/12/2021 3:42,Felia
+72,Making Course Selection Sheet,6/12/2021 3:43,Diky
+72,Taking  Course Selection Sheet,6/12/2021 8:01,Zhafran
+72,Classes,6/12/2021 8:04,Diky
+72,Attendance,6/12/2021 8:08,Zhafran
+72,Grading Process,6/12/2021 8:09,Rayisa
+73,Course Scheduling,6/12/2021 2:27,Felia
+73,Enrollment Assistance,6/12/2021 2:27,Ridwan
+73,Lecturer Approval,6/12/2021 2:30,Felia
+73,Enrollment Finalization,6/12/2021 2:31,Diky
+73,Lecturer Approval,6/12/2021 2:33,Felia
+73,Making Course Selection Sheet,6/12/2021 2:34,Zhafran
+73,Taking  Course Selection Sheet,6/12/2021 2:34,Zhafran
+73,Classes,6/12/2021 2:36,Diky
+73,Attendance,6/12/2021 2:54,Rayisa
+73,Grading Process,6/12/2021 2:55,Ridwan
+74,Course Scheduling,6/12/2021 2:40,Felia
+74,Enrollment Assistance,6/12/2021 2:57,Diky
+74,Lecturer Approval,6/12/2021 3:36,Felia
+74,Making Course Selection Sheet,6/12/2021 4:02,Ridwan
+74,Taking  Course Selection Sheet,6/12/2021 4:04,Rayisa
+74,Classes,6/12/2021 4:04,Rayisa
+74,Attendance,6/12/2021 4:04,Rayisa
+74,Grading Process,6/12/2021 4:04,Ridwan
+75,Course Scheduling,5/27/2021 8:01,Felia
+75,Enrollment Assistance,5/27/2021 8:02,Diky
+75,Lecturer Approval,6/11/2021 3:37,Administrator
+76,Course Scheduling,6/12/2021 2:52,Felia
+76,Enrollment Assistance,6/12/2021 3:00,Zhafran
+76,Lecturer Approval,6/12/2021 3:28,Felia
+76,Making Course Selection Sheet,6/12/2021 3:29,Ridwan
+76,Taking  Course Selection Sheet,6/12/2021 3:29,Ridwan
+76,Classes,6/12/2021 3:29,Ridwan
+76,Attendance,6/12/2021 3:29,Ridwan
+76,Grading Process,6/12/2021 8:02,Zhafran
+77,Course Scheduling,6/12/2021 2:45,Felia
+77,Enrollment Assistance,6/12/2021 2:58,Diky
+77,Lecturer Approval,6/12/2021 3:33,Felia
+77,Making Course Selection Sheet,6/12/2021 3:45,Ridwan
+77,Taking  Course Selection Sheet,6/12/2021 4:02,Ridwan
+77,Classes,6/12/2021 4:02,Ridwan
+77,Attendance,6/12/2021 4:03,Ridwan
+77,Grading Process,6/12/2021 8:02,Zhafran
+78,Course Scheduling,6/12/2021 2:24,Felia
+78,Enrollment Assistance,6/12/2021 2:25,Ridwan
+78,Lecturer Approval,6/12/2021 2:27,Felia
+78,Making Course Selection Sheet,6/12/2021 2:32,Diky
+78,Taking  Course Selection Sheet,6/12/2021 2:32,Diky
+78,Classes,6/12/2021 2:32,Ridwan
+78,Attendance,6/12/2021 2:34,Zhafran
+78,Grading Process,6/12/2021 2:54,Rayisa
+79,Course Scheduling,6/12/2021 2:43,Felia
+79,Enrollment Assistance,6/12/2021 2:57,Diky
+79,Lecturer Approval,6/12/2021 3:34,Felia
+79,Making Course Selection Sheet,6/12/2021 3:39,Diky
+79,Taking  Course Selection Sheet,6/12/2021 3:39,Diky
+79,Classes,6/12/2021 3:39,Diky
+79,Attendance,6/12/2021 4:03,Rayisa
+79,Grading Process,6/12/2021 4:14,Diky
+80,Course Scheduling,6/12/2021 2:49,Felia
+80,Enrollment Assistance,6/12/2021 2:55,Rayisa
+80,Lecturer Approval,6/12/2021 3:31,Felia
+80,Making Course Selection Sheet,6/12/2021 4:03,Rayisa
+80,Taking  Course Selection Sheet,6/12/2021 4:03,Ridwan
+80,Classes,6/12/2021 8:02,Zhafran
+80,Attendance,6/12/2021 8:11,Felia
+81,Course Scheduling,6/12/2021 2:53,Felia
+81,Enrollment Assistance,6/12/2021 3:00,Zhafran
+81,Lecturer Approval,6/12/2021 3:27,Felia
+81,Making Course Selection Sheet,6/12/2021 3:29,Ridwan
+81,Taking  Course Selection Sheet,6/12/2021 3:30,Diky
+81,Classes,6/12/2021 4:02,Rayisa
+81,Attendance,6/12/2021 6:09,Felia
+81,Grading Process,6/12/2021 6:30,Rayisa
+82,Course Scheduling,6/12/2021 3:04,Felia
+82,Enrollment Assistance,6/12/2021 3:05,Diky
+82,Lecturer Approval,6/12/2021 3:43,Felia
+82,Enrollment Finalization,6/12/2021 3:46,Ridwan
+82,Lecturer Approval,6/12/2021 3:48,Felia
+82,Making Course Selection Sheet,6/12/2021 4:02,Ridwan
+82,Taking  Course Selection Sheet,6/12/2021 8:02,Zhafran
+82,Classes,6/12/2021 8:06,Ridwan
+82,Attendance,6/12/2021 8:07,Zhafran
+82,Grading Process,6/12/2021 8:11,Diky
+83,Course Scheduling,6/12/2021 2:42,Felia
+83,Enrollment Assistance,6/12/2021 2:42,Zhafran
+83,Lecturer Approval,6/12/2021 2:43,Felia
+83,Making Course Selection Sheet,6/12/2021 3:00,Zhafran
+83,Taking  Course Selection Sheet,6/12/2021 3:02,Ridwan
+83,Classes,6/12/2021 3:08,Zhafran
+83,Attendance,6/12/2021 3:08,Zhafran
+83,Grading Process,6/12/2021 3:12,Rayisa
+84,Course Scheduling,6/12/2021 2:25,Felia
+84,Enrollment Assistance,6/12/2021 2:26,Zhafran
+84,Lecturer Approval,6/12/2021 2:27,Felia
+84,Making Course Selection Sheet,6/12/2021 2:28,Zhafran
+84,Taking  Course Selection Sheet,6/12/2021 2:54,Rayisa
+84,Classes,6/12/2021 2:57,Diky
+84,Attendance,6/12/2021 2:58,Ridwan
+84,Grading Process,6/12/2021 3:00,Ridwan
+85,Course Scheduling,6/12/2021 2:23,Felia
+85,Enrollment Assistance,6/12/2021 2:54,Rayisa
+85,Lecturer Approval,6/12/2021 3:41,Felia
+85,Making Course Selection Sheet,6/12/2021 8:02,Zhafran
+85,Taking  Course Selection Sheet,6/12/2021 8:06,Ridwan
+85,Classes,6/12/2021 8:06,Ridwan
+85,Attendance,6/12/2021 8:11,Felia
+86,Course Scheduling,6/12/2021 2:20,Felia
+86,Enrollment Assistance,6/12/2021 2:22,Zhafran
+86,Lecturer Approval,6/12/2021 2:27,Felia
+86,Making Course Selection Sheet,6/12/2021 2:28,Ridwan
+86,Taking  Course Selection Sheet,6/12/2021 2:28,Ridwan
+86,Classes,6/12/2021 2:32,Diky
+86,Attendance,6/12/2021 2:53,Rayisa
+86,Grading Process,6/12/2021 2:56,Diky
+87,Course Scheduling,6/12/2021 3:18,Felia
+87,Enrollment Assistance,6/12/2021 3:24,Diky
+87,Lecturer Approval,6/12/2021 3:43,Felia
+87,Making Course Selection Sheet,6/12/2021 3:46,Ridwan
+87,Taking  Course Selection Sheet,6/12/2021 8:02,Zhafran
+87,Classes,6/12/2021 8:08,Rayisa
+87,Attendance,6/12/2021 8:09,Rayisa
+87,Grading Process,6/12/2021 8:10,Ridwan
+88,Course Scheduling,6/12/2021 2:25,Felia
+88,Enrollment Assistance,6/12/2021 2:54,Rayisa
+88,Lecturer Approval,6/12/2021 3:39,Felia
+88,Making Course Selection Sheet,6/12/2021 3:46,Ridwan
+88,Taking  Course Selection Sheet,6/12/2021 3:47,Diky
+88,Classes,6/12/2021 4:04,Rayisa
+88,Attendance,6/12/2021 8:02,Zhafran
+88,Grading Process,6/12/2021 8:08,Rayisa
+89,Course Scheduling,6/12/2021 2:24,Felia
+89,Enrollment Assistance,6/12/2021 2:30,Diky
+89,Lecturer Approval,6/12/2021 2:34,Felia
+89,Making Course Selection Sheet,6/12/2021 2:54,Rayisa
+89,Taking  Course Selection Sheet,6/12/2021 2:56,Ridwan
+89,Classes,6/12/2021 2:56,Ridwan
+89,Attendance,6/12/2021 3:00,Zhafran
+89,Grading Process,6/12/2021 3:00,Rayisa
+90,Course Scheduling,6/12/2021 2:45,Felia
+90,Enrollment Assistance,6/12/2021 3:00,Zhafran
+90,Lecturer Approval,6/12/2021 3:34,Felia
+90,Making Course Selection Sheet,6/12/2021 4:03,Rayisa
+90,Taking  Course Selection Sheet,6/12/2021 4:03,Rayisa
+90,Classes,6/12/2021 4:14,Diky
+90,Attendance,6/12/2021 8:02,Zhafran
+90,Grading Process,6/12/2021 8:02,Zhafran
+91,Course Scheduling,6/12/2021 2:46,Felia
+91,Enrollment Assistance,6/12/2021 2:48,Ridwan
+91,Lecturer Approval,6/12/2021 3:32,Felia
+91,Making Course Selection Sheet,6/12/2021 8:03,Zhafran
+91,Taking  Course Selection Sheet,6/12/2021 8:08,Rayisa
+92,Course Scheduling,6/12/2021 2:52,Felia
+92,Enrollment Assistance,6/12/2021 2:54,Ridwan
+92,Lecturer Approval,6/12/2021 3:29,Felia
+92,Making Course Selection Sheet,6/12/2021 8:03,Zhafran
+92,Taking  Course Selection Sheet,6/12/2021 8:03,Zhafran
+92,Classes,6/12/2021 8:03,Zhafran
+92,Attendance,6/12/2021 8:05,Ridwan
+92,Grading Process,6/12/2021 8:08,Rayisa
+93,Course Scheduling,5/27/2021 8:09,Felia
+93,Enrollment Assistance,5/27/2021 8:11,Rayisa
+93,Lecturer Approval,5/27/2021 8:12,Felia
+93,Enrollment Finalization,5/27/2021 8:12,Ridwan
+93,Lecturer Approval,5/27/2021 8:12,Felia
+93,Enrollment Finalization,5/27/2021 8:14,Rayisa
+93,Lecturer Approval,5/27/2021 8:14,Felia
+94,Course Scheduling,6/12/2021 2:41,Felia
+94,Enrollment Assistance,6/12/2021 2:42,Zhafran
+94,Lecturer Approval,6/12/2021 2:43,Felia
+94,Enrollment Finalization,6/12/2021 3:00,Zhafran
+94,Lecturer Approval,6/12/2021 3:35,Felia
+94,Enrollment Finalization,6/12/2021 3:46,Ridwan
+94,Lecturer Approval,6/12/2021 3:48,Felia
+94,Enrollment Finalization,6/12/2021 3:49,Diky
+94,Lecturer Approval,6/12/2021 3:50,Felia
+94,Making Course Selection Sheet,6/12/2021 4:03,Rayisa
+94,Taking  Course Selection Sheet,6/12/2021 4:15,Diky
+94,Classes,6/12/2021 8:04,Zhafran
+94,Attendance,6/12/2021 8:08,Rayisa
+94,Grading Process,6/12/2021 8:12,Diky
+95,Course Scheduling,6/12/2021 2:22,Felia
+95,Enrollment Assistance,6/12/2021 2:22,Zhafran
+95,Lecturer Approval,6/12/2021 2:28,Felia
+95,Enrollment Finalization,6/12/2021 2:29,Ridwan
+95,Lecturer Approval,6/12/2021 2:30,Felia
+95,Making Course Selection Sheet,6/12/2021 2:30,Zhafran
+95,Taking  Course Selection Sheet,6/12/2021 2:31,Ridwan
+95,Classes,6/12/2021 2:52,Rayisa
+95,Attendance,6/12/2021 2:53,Rayisa
+95,Grading Process,6/12/2021 2:53,Rayisa
+96,Course Scheduling,6/12/2021 2:46,Felia
+96,Enrollment Assistance,6/12/2021 3:05,Diky
+96,Lecturer Approval,6/12/2021 3:21,Felia
+96,Making Course Selection Sheet,6/12/2021 3:24,Diky
+96,Taking  Course Selection Sheet,6/12/2021 6:22,Diky
+96,Classes,6/12/2021 6:30,Rayisa
+96,Attendance,6/12/2021 8:05,Ridwan
+96,Grading Process,6/12/2021 8:05,Ridwan
+97,Course Scheduling,5/27/2021 8:18,Felia
+97,Enrollment Assistance,5/27/2021 8:20,Ridwan
+97,Lecturer Approval,5/27/2021 8:21,Felia
+97,Making Course Selection Sheet,5/27/2021 8:21,Diky
+97,Taking  Course Selection Sheet,5/27/2021 8:23,Rayisa
+97,Classes,5/27/2021 8:23,Rayisa
+97,Attendance,5/27/2021 8:24,Ridwan
+97,Grading Process,5/27/2021 8:24,Ridwan
+98,Course Scheduling,6/12/2021 2:41,Felia
+98,Enrollment Assistance,6/12/2021 2:52,Rayisa
+98,Lecturer Approval,6/12/2021 3:35,Felia
+98,Making Course Selection Sheet,6/12/2021 8:04,Zhafran
+98,Taking  Course Selection Sheet,6/12/2021 8:04,Diky
+98,Classes,6/12/2021 8:08,Rayisa
+98,Attendance,6/12/2021 8:09,Zhafran
+98,Grading Process,6/12/2021 8:09,Zhafran
+99,Course Scheduling,6/12/2021 2:51,Felia
+99,Enrollment Assistance,6/12/2021 2:52,Ridwan
+99,Lecturer Approval,6/12/2021 3:30,Felia
+99,Making Course Selection Sheet,6/12/2021 8:04,Zhafran
+99,Taking  Course Selection Sheet,6/12/2021 8:05,Ridwan
+99,Classes,6/12/2021 8:14,Diky
+100,Course Scheduling,5/27/2021 8:18,Felia
+100,Enrollment Assistance,5/27/2021 8:18,Diky
+100,Lecturer Approval,5/27/2021 8:19,Felia
+100,Making Course Selection Sheet,5/27/2021 8:20,Ridwan
+100,Taking  Course Selection Sheet,5/27/2021 8:20,Ridwan
+100,Classes,5/27/2021 8:21,Ridwan
+100,Attendance,5/27/2021 8:22,Felia
+100,Grading Process,5/27/2021 8:30,Diky
+101,Course Scheduling,6/12/2021 2:40,Felia
+101,Enrollment Assistance,6/12/2021 2:53,Rayisa
+101,Lecturer Approval,6/12/2021 3:36,Felia
+101,Enrollment Finalization,6/12/2021 4:03,Rayisa
+101,Lecturer Approval,6/12/2021 6:09,Felia
+101,Making Course Selection Sheet,6/12/2021 6:09,Diky
+101,Taking  Course Selection Sheet,6/12/2021 8:04,Zhafran
+101,Classes,6/12/2021 8:04,Diky
+101,Attendance,6/12/2021 8:11,Felia
+102,Course Scheduling,5/27/2021 7:55,Felia
+102,Enrollment Assistance,5/27/2021 7:57,Rayisa
+102,Lecturer Approval,5/27/2021 7:59,Felia
+102,Making Course Selection Sheet,5/27/2021 8:01,Rayisa
+102,Taking  Course Selection Sheet,5/27/2021 8:09,Zhafran
+102,Classes,5/27/2021 8:11,Diky
+102,Attendance,5/27/2021 8:12,Zhafran
+102,Grading Process,5/27/2021 8:12,Diky
+103,Course Scheduling,6/12/2021 2:24,Felia
+103,Enrollment Assistance,6/12/2021 2:54,Rayisa
+103,Lecturer Approval,6/12/2021 3:40,Felia
+103,Enrollment Finalization,6/12/2021 8:04,Zhafran
+103,Lecturer Approval,6/12/2021 8:15,Felia
+104,Course Scheduling,6/12/2021 2:20,Felia
+104,Enrollment Assistance,6/12/2021 2:30,Diky
+104,Lecturer Approval,6/12/2021 2:33,Felia
+104,Making Course Selection Sheet,6/12/2021 2:34,Ridwan
+104,Taking  Course Selection Sheet,6/12/2021 2:52,Rayisa
+104,Classes,6/12/2021 2:56,Diky
+104,Attendance,6/12/2021 3:42,Felia
+104,Grading Process,6/12/2021 3:43,Diky
